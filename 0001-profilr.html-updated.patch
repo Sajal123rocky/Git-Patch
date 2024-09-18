@@ -1,0 +1,33 @@
+From 4b2214e972296786e310d6bd97edda00089c02be Mon Sep 17 00:00:00 2001
+From: sajal <sajalsrivastava123123aa@gmail.com>
+Date: Wed, 18 Sep 2024 16:27:01 +0530
+Subject: [PATCH] profilr.html updated
+
+---
+ profile.html | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+ create mode 100644 profile.html
+
+diff --git a/profile.html b/profile.html
+new file mode 100644
+index 0000000..41cba60
+--- /dev/null
++++ b/profile.html
+@@ -0,0 +1,13 @@
++<html>
++
++<head>
++
++</head>
++
++<body>
++
++Git Patch Operation
++
++</body>
++
++</html>
+\ No newline at end of file
+-- 
+2.43.0.windows.1
+
